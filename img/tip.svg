@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg fill="#FFFFFF" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512.192 512.192" xml:space="preserve">
+	 <style>
+		.bubbleFont {
+			font: 63px sans-serif;
+			fill: black;
+	}
+	</style>
+	<path stroke="#000000" stroke-width="3px" d="M480.088,326.88
+		c0,12.048-9.392,21.856-20.928,21.856h-89.84v95.776l-116.752-95.776H53.016c-11.536,0.016-20.928-9.792-20.928-21.84V53.872
+		C32.088,41.824,41.48,32,53.016,32h406.16c11.52,0.016,20.912,9.824,20.912,21.872V326.88z"/>
+	<text x="42px" y="120" class="bubbleFont">Voor meer info,</text>
+	<text x="200px" y="200" class="bubbleFont">rijen </text>
+	<text x="66px" y="280" class="bubbleFont">dubbelklikken</text>
+</svg>
