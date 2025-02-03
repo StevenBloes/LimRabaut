@@ -146,14 +146,14 @@ nav ul {
 nav li {
 	display: inline-block;
 	font-size: 0;
-	padding: 0em;
+	padding: 0em 0.2em;
 	margin-left: 0em;
 }
 nav a {
 	color: #FFCC99;
 	display:inline-block;
 	font: normal 16px sans-serif;
-	padding: 0.2em 0.3em 0.1em 0.3em;
+	padding: 0.2em 0.4em 0.1em 0.4em;
 	text-align:center;
 	text-decoration: none; 
 }
